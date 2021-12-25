@@ -23,7 +23,9 @@ email: 6210110272@psu.ac.th
 description: >- # this means to ignore newlines until "baseurl:"
   MinZ blog for 3SB01 of 6210110272
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+domain: 3sb01-lab.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://3sb01-lab.github.io # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /3sb01-lab/      # place folder name if the site is served in a subfolder
 github_username:  phumin-psu
 
 # Build settings
