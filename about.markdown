@@ -10,7 +10,7 @@ permalink: /about/
 
 ## About Editor
 #### CoE Student -> Engineering
-![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
+![](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.6435-9/130238272_3592566800822593_4212210488768365082_n.jpg)
 - [Name] - Phumin Mukem
 - [Student ID] - 6210110272
 - [My Website] - [minzworld.cf](https://minzworld.cf)
